@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Attack-2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e2fe9637-1827-4bdf-8be4-54622b99e955"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d482273d-4b92-4f28-8296-0203d460263a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9df5f4a3-8e75-422f-804b-177f8332a02b"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "66c57a1c-140f-421e-af47-455ae970aae1"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d9ea7c57-4121-4fcd-a143-813f3c431c16"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b9c6bdad-f826-4d8a-a309-abf5d2344a40"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "310798a5-d080-4b85-9c2c-8cc61e2a863b"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "68a7be49-fe48-4735-af4a-3279180df50f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e5e2299a-7f6a-4b4f-bc58-7b4318dbf12b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.1,
+      "func": "onAttack",
+      "params": [
+        "normalAttack2"
+      ]
+    },
+    {
+      "frame": 0.4,
+      "func": "normalAttack",
+      "params": []
+    },
+    {
+      "frame": 0.4,
+      "func": "offAttack",
+      "params": [
+        "normalAttack2"
+      ]
+    }
+  ]
+}

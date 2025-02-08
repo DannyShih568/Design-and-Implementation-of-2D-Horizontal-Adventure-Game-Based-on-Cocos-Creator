@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b73276d0-fc08-41c7-9ce0-20e504ef1e95",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 144,
+  "platformSettings": {},
+  "subMetas": {
+    "Boss_CuttingDie3": {
+      "ver": "1.0.6",
+      "uuid": "275c7662-087b-46d3-ac7d-60aea9781dae",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b73276d0-fc08-41c7-9ce0-20e504ef1e95",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 144,
+      "rawWidth": 144,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

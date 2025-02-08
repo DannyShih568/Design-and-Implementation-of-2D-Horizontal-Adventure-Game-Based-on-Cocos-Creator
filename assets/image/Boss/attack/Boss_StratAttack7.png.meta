@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "68677e22-d8f6-49ca-b8e7-1705cd9bcd4a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 144,
+  "platformSettings": {},
+  "subMetas": {
+    "Boss_StratAttack7": {
+      "ver": "1.0.6",
+      "uuid": "cfbaefd6-0a7b-462a-9950-2630578f8618",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "68677e22-d8f6-49ca-b8e7-1705cd9bcd4a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 144,
+      "rawWidth": 144,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

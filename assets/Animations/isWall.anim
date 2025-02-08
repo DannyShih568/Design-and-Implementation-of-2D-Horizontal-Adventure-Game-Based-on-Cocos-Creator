@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "isWall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.55,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "072561b0-a73e-46a7-82e2-1ac94ab44f72"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "e6d732b7-6cdd-4e3b-bfc3-89215f652ed1"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "987520fd-f15d-44ac-bd68-d06f62a75faa"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "fb4459f0-5f66-44ad-8f77-852e12e79025"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "072561b0-a73e-46a7-82e2-1ac94ab44f72"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

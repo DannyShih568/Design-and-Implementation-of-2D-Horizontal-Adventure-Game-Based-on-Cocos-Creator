@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Attack-3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e9c5c5ec-09af-4b19-b818-53c737c51651"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d1be6289-b15b-40d7-910e-ab659ee359c7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "883834e3-c137-4d2d-b256-058facc37cac"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "e08012f6-4386-41f3-a32b-32ada843f814"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "8c3109cc-19a9-47b5-ae9a-fe2933d5b689"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1aca485a-0033-49bc-ae32-5c7d491fe51a"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "6ed3b54b-c597-4558-b3c8-a31bbc454f9f"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "d4bca93e-f0f9-4759-855c-6966552eb6ba"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "50343f82-6c7b-4640-8b6e-afb8eb39d748"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.2,
+      "func": "onAttack",
+      "params": [
+        "normalAttack3"
+      ]
+    },
+    {
+      "frame": 0.4666666666666667,
+      "func": "normalAttack",
+      "params": []
+    },
+    {
+      "frame": 0.4666666666666667,
+      "func": "offAttack",
+      "params": [
+        "normalAttack3"
+      ]
+    }
+  ]
+}

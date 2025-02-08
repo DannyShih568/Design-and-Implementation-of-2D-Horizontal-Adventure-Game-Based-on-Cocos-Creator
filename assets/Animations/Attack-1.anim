@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Attack-1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e668ddd1-5ce9-4f81-84d6-c3f3e048825f"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "0371d9bd-b27d-4862-b0a4-8b10671a3397"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "edd3e1ec-df3d-43e6-8a5b-abfa292512b4"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "69de580e-246a-4d93-9dad-6e800965c743"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d71f5455-7277-479a-a923-d72850557fa8"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0efbada6-aa4c-4099-ad41-f3df171a164d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.05,
+      "func": "onAttack",
+      "params": [
+        "normalAttack1"
+      ]
+    },
+    {
+      "frame": 0.25,
+      "func": "normalAttack",
+      "params": []
+    },
+    {
+      "frame": 0.25,
+      "func": "offAttack",
+      "params": [
+        "normalAttack1"
+      ]
+    }
+  ]
+}

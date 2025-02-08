@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "36bd89a1-b404-487f-a0c5-180aea6e2388",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "火焰特效-序列帧-164_爱给网_aigei_com16": {
+      "ver": "1.0.6",
+      "uuid": "9d8bd4c1-f118-4688-ad2c-e26096043254",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "36bd89a1-b404-487f-a0c5-180aea6e2388",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
